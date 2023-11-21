@@ -8,3 +8,7 @@ while($contgem < 11){
 }
 
 echo "acabou";
+
+
+
+$e = "versao 2";
